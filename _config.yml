@@ -1,0 +1,85 @@
+# SITE CONFIGURATION
+title: Python for Data Science # your site title
+author: AI Adventures # You :P
+description: > # Meta description of Homepage
+  Start building useful real world applications by learning to code
+  from this free 4-day course on Python :)
+baseurl: "/weekday" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+future: true
+# SEO PLUGIN
+social:
+  name: AI Adventures
+  links:
+    # - https://twitter.com/BenBalter
+    # - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/company/aiadventures/
+    # - https://plus.google.com/+BenBalter
+    - https://github.com/Ai-Adventures
+    # - https://keybase.io/benbalter
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'Prerequisites', link: '/prerequisites'}
+  - {name: 'Resources', link: '/resources'}
+  - {name: 'Roadmap', link: '/roadmap'}
+  - {name: 'Rankings', link: '/rankings'}
+  - {name: 'News', link: '/news'}
+  - {name: 'FAQ', link: '/faq'}
+  # - {name: 'Contact', link: '/contact'}
+
+tagline:
+  Python is the way!
+
+hero_img: posts/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: your-email@domain.com # email for form submission
+
+# twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+github_username:  Ai-Adventures # replace with your_github_username or comment to remove link from footer
+instagram_username:  aiadventures.pune # replace with your_instagram_username or comment to remove link from footer
+linkedin_username: aiadventures
+
+# disqus:
+#   shortname: janczizikow # to enable comments replace with your_disqus_shortname
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-ftp
+
+collections: 
+  applications:
+    output: true
+
+# username: UserName
+# server_url: ftp.myserver.com
+# remote_dir: /public_html
