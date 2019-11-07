@@ -13,4 +13,4 @@ featured-img: roadmap
 
 #### All submission deadlines are by 9:59 AM, unless mentioned otherwise.
 
-[Add to Google calender](https://calendar.google.com/calendar?cid=YnFpbWdhZ3N2aGRwNDRtOGZqZDAxcThhNXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+[Add to Google calender](https://calendar.google.com/calendar/b/1?cid=MTExZDJjNGtxazg5dHJwa3JrN25qcW1pbjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
