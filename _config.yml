@@ -4,7 +4,7 @@ author: AI Adventures # You :P
 description: > # Meta description of Homepage
   Start building useful real world applications by learning to code
   from this free 4-day course on Python :)
-baseurl: "/weekday" # the subpath of your site, e.g. /blog
+baseurl: "/weekend" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 future: true
 # SEO PLUGIN
