@@ -5,10 +5,13 @@ title: Resources
 permalink: /resources/
 published: True
 ---
+## Resources will be available once the course begins!
+
+<!--
 ## Day 1 - Introduction
 
 - [Quiz 1](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-1.ipynb)
-<!-- - [Assignment 1](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Assignment-1.ipynb) -->
+- [Assignment 1](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Assignment-1.ipynb) 
 - Deadline:- 14 Nov 2019
 
 *** 
@@ -37,4 +40,4 @@ published: True
 
 ***
 
-#### All submission deadlines are by 9:59 AM, unless mentioned otherwise.
+#### All submission deadlines are by 9:59 AM, unless mentioned otherwise.-->

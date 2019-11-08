@@ -11,7 +11,7 @@ Anaconda is a free and open-source distribution of the Python for scientific com
 <br>
 
 ### Before installation
-Ensure that you install Python 3.7 and <b>NOT</b> python 2.7. 
+Ensure that you install Python 3.7 and <b>NOT</b> Python 2.7. 
 
 ### Installation
 
