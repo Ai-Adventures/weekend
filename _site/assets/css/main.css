@@ -451,7 +451,7 @@ pre>code {
 }
 
 .header {
-    background-color: #006699;
+    background-color: #0f2e61;
     color: white;
     position: absolute;
     z-index: 4;
@@ -479,7 +479,7 @@ pre>code {
 
 .header.fix-nav {
     position: fixed;
-    background-color:#006699;
+    background-color:#0f2e61;
     -webkit-transition: background-color 0.5s ease, -webkit-transform .3s;
     transition: background-color 0.5s ease, -webkit-transform .3s;
     transition: transform .3s, background-color 0.5s ease;
@@ -543,7 +543,7 @@ pre>code {
     left: 0;
     width: 100%;
     height: auto;
-    background: #006699
+    background: #0f2e61
 }
 
 .header__link {
@@ -562,7 +562,7 @@ pre>code {
     flex-direction: column;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
-    justify-content: center;
+    justify-co#006699ntent: center;
     width: 44px;
     height: 100%;
     background-color: transparent;
