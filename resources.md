@@ -5,17 +5,16 @@ title: Resources
 permalink: /resources/
 published: True
 ---
-## Resources will be available once the course begins!
+<!-- ## Resources will be available once the course begins! -->
 
-<!--
 ## Day 1 - Introduction
 
 - [Quiz 1](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-1.ipynb)
-- [Assignment 1](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Assignment-1.ipynb) 
+<!-- - [Assignment 1](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Assignment-1.ipynb)  -->
 - Deadline:- 14 Nov 2019
 
 *** 
-
+<!--
 ## Day 2 - Conditional And Looping Constructs
 
 - [Quiz 2](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-2.ipynb)
