@@ -14,7 +14,7 @@ published: True
 - Deadline:- 14 Nov 2019
 
 *** 
-<!--
+
 ## Day 2 - Conditional And Looping Constructs
 
 - [Quiz 2](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-2.ipynb)
@@ -22,7 +22,7 @@ published: True
 - Deadline:- 15 Nov 2019
 
 ***
-
+<!--
 ## Day 3 - Data Structures
 
 - [Quiz 3](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-3.ipynb)
