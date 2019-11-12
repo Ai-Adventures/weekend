@@ -22,7 +22,7 @@ published: True
 - [Assignment 2](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Assignment-2.ipynb)
 <!-- - [Assignment 2 mirror](Assignment-2.html) -->
 - Deadline:- 15 Nov 2019
-- [Homework](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Homework.ipynb)
+- [Homework](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Homework.ipynb)
 
 ***
 
