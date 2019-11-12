@@ -18,10 +18,15 @@ published: True
 ## Day 2 - Conditional And Looping Constructs
 
 - [Quiz 2](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-2.ipynb)
+<!-- - [Quiz 2 mirror](Quiz-2.html) -->
 - [Assignment 2](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Assignment-2.ipynb)
+<!-- - [Assignment 2 mirror](Assignment-2.html) -->
 - Deadline:- 15 Nov 2019
+- [Homework](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Homework.ipynb)
 
 ***
+
+
 <!--
 ## Day 3 - Data Structures
 
