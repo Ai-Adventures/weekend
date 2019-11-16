@@ -35,7 +35,6 @@ published: True
 - Deadline:- 17 Nov 2019
 
 ***
-<!--
 ## Day 4 - Functions
 
 - [Quiz 4](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-4.ipynb)
@@ -43,5 +42,5 @@ published: True
 - Deadline:- 17 Nov 2019 (5:00 PM)
 
 ***
--->
+
 #### All submission deadlines are by 9:59 AM, unless mentioned otherwise.
