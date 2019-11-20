@@ -17,8 +17,8 @@ Python is one of the most widely used programming languages. It has a strong ope
 ### Will I get a certificate when I’ve finished the course?
 Yes. Additionally, the top performing students will also be featured on the [rankings section]({{ site.baseurl }}/rankings) of our website :)
 
-### What is the expected workload?
-The timings for the weekday batch will be from 4:00 PM to 7:00 PM IST. The sessions will last from Monday to Friday with a holiday on Thursday. The total workload along with homework assignments will be ~20 hours 
+<!-- ### What is the expected workload?
+The timings for the weekday batch will be from 4:00 PM to 7:00 PM IST. The sessions will last from Monday to Friday with a holiday on Thursday. The total workload along with homework assignments will be ~20 hours  -->
 
 ### Do I need to get my own laptop?
 Yes. We expect you to get your own laptops with anaconda installed. Head over to the [prerequisites]({{ site.baseurl }}/prerequisites) section to learn more.

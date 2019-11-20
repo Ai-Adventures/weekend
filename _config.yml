@@ -32,6 +32,16 @@ navigation: # Navigation links
 tagline:
   Python is the way!
 
+batch_name: Weekend
+
+quiz_1: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-1.ipynb?flush_cache=true
+quiz_2: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-2.ipynb?flush_cache=true
+assignment_2: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Assignment-2.ipynb?flush_cache=true
+quiz_3: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-3.ipynb?flush_cache=true
+assignment_3: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Assignment-3.ipynb?flush_cache=true
+quiz_4: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-4.ipynb?flush_cache=true
+assignment_4: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Assignment-4.ipynb?flush_cache=true
+
 hero_img: posts/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
