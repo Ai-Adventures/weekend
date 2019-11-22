@@ -26,6 +26,8 @@ navigation: # Navigation links
   - {name: 'Roadmap', link: '/roadmap'}
   - {name: 'Rankings', link: '/rankings'}
   - {name: 'News', link: '/news'}
+  # - {name: 'Workflow', link: '/workflow'}
+  # - {name: 'Careers', link: '/careers'}
   - {name: 'FAQ', link: '/faq'}
   # - {name: 'Contact', link: '/contact'}
 
@@ -41,6 +43,36 @@ quiz_3: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/
 assignment_3: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Assignment-3.ipynb?flush_cache=true
 quiz_4: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-4.ipynb?flush_cache=true
 assignment_4: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Assignment-4.ipynb?flush_cache=true
+homework: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Homework.ipynb?flush_cache=true
+
+# Deadlines
+quiz_1_start: 23rd November
+quiz_1_deadline: 23th November
+quiz_1_time: 4:30 PM
+
+quiz_2_start: 23rd November
+quiz_2_deadline: 24th November
+quiz_2_time: 4:30 PM
+
+assignment_2_start: 23th November
+assignment_2_deadline: 24th November
+assignment_2_time: 4:30 PM
+
+quiz_3_start: 24th November
+quiz_3_deadline: 30th November
+quiz_3_time: 4:30 PM
+
+assignment_3_start: 24th November
+assignment_3_deadline: 30th November
+assignment_3_time: 4:30 PM
+
+quiz_4_start: 30th November
+quiz_4_deadline: 1st December
+quiz_4_time: 2:30 PM
+
+assignment_4_start: 30th November
+assignment_4_deadline: 1st December
+assignment_4_time: 2:30 PM
 
 hero_img: posts/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
