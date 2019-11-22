@@ -27,6 +27,7 @@ The first step in any machine learning/data science project is always gathering 
 - Manually take pictures of cats and dogs :)
 
 ### Data Preparation
+![Data preparation]({{ site.baseurl }}/assets/img/Pipeline/person-pointing.jpg)
 
 The gathered data is not always directly in a usable state. First the data is cleaned where multiple operations can be carried out. Data cleaning consists of the following steps:
 - Fixing corrupt or broken images. This can be done by using some algorithm which can recover corrupt data or by simply deleting these images. 
