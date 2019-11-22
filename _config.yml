@@ -26,8 +26,8 @@ navigation: # Navigation links
   - {name: 'Roadmap', link: '/roadmap'}
   - {name: 'Rankings', link: '/rankings'}
   # - {name: 'News', link: '/news'}
-  - {name: 'Pipeline', link: '/pipeline'}
-  - {name: 'Careers', link: '/careers'}
+  # - {name: 'Pipeline', link: '/pipeline'}
+  # - {name: 'Careers', link: '/careers'}
   - {name: 'FAQ', link: '/faq'}
   # - {name: 'Contact', link: '/contact'}
 

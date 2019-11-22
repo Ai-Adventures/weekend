@@ -31,9 +31,7 @@ layout: compress
         <div class="container">
           <h1 style="text-align: center; padding-top: 20px;">{{ site.batch_name }} Batch</h1>
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-
-            <h2 style="margin: auto;">Course content will be available once the course begins!</h2>
-
+            
             {% for post in site.posts %}
               {% include card.html %}
             {% endfor %}
