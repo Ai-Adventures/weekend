@@ -26,5 +26,14 @@ Yes. We expect you to get your own laptops with anaconda installed. Head over to
 ### How to register for the course?
 For those who have not yet registered, use this [google form](redirects/registration_form.html). Stay tuned for the time table and details! 
 
+### What are the steps taken in an industrial machine learning project?
+We have an entire [blog post]({{ site.baseurl }}/pipeline) which covers this topic!
+
+### What are the possible career prospects in machine learning?
+Head over to our [Careers]({{ site.baseurl }}/careers) tab for a detailed explaination.
+
+### How can I learn machine learning?
+If you like what we have to offer, we have a comprehensive course on machine learning which is built from the ground up! You will learn about data cleaning using modules like [pandas](https://pandas.pydata.org/) and [numpy](https://numpy.org/). The course also covers data analysis and visualizations through [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/). We then proceed to explore the theory of machine learning and implement it using [sklearn](https://scikit-learn.org/stable/)!
+
 ### Additional questions?
 Feel free to [get in touch](https://aiadventures.in/contact-us/)!
