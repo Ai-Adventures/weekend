@@ -10,14 +10,14 @@ published: True
 ***
 <h2 style="text-align: center;">Resources will be available once the course begins!</h2>
 <!--
-## Day 1 - Introduction
+## Lesson 1 - Introduction
 
 - [Quiz 1]({{ site.quiz_1 }})
 - Deadline:- {{ site.quiz_1_deadline }} ({{ site.quiz_1_time }})
 
 *** 
 
-## Day 2 - Conditional And Looping Constructs
+## Lesson 2 - Conditional And Looping Constructs
 
 - [Quiz 2]({{ site.quiz_2 }})
 - [Assignment 2]({{ site.assignment_2 }})
@@ -28,14 +28,14 @@ published: True
 
 
 
-## Day 3 - Data Structures
+## Lesson 3 - Data Structures
 
 - [Quiz 3]({{ site.quiz_3 }})
 - [Assignment 3]({{ site.assignment_3 }})
 - Deadline:- {{ site.quiz_3_deadline }} ({{ site.quiz_3_time }})
 
 ***
-## Day 4 - Functions
+## Lesson 4 - Functions
 
 - [Quiz 4]({{ site.quiz_4 }})
 - [Assignment 4]({{ site.assignment_4 }})
