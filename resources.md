@@ -8,8 +8,8 @@ published: True
 
 <h1 style="text-align: center;">{{ site.batch_name }} Batch</h1>
 ***
-<h2 style="text-align: center;">Resources will be available once the course begins!</h2>
-<!--
+<!-- <h2 style="text-align: center;">Resources will be available once the course begins!</h2> -->
+
 ## Lesson 1 - Introduction
 
 - [Quiz 1]({{ site.quiz_1 }})
@@ -22,12 +22,10 @@ published: True
 - [Quiz 2]({{ site.quiz_2 }})
 - [Assignment 2]({{ site.assignment_2 }})
 - Deadline:- {{ site.quiz_2_deadline }} ({{ site.quiz_2_time }})
-- [Homework]({{ site.homework }})
+<!-- - [Homework]({{ site.homework }}) -->
 
 ***
-
-
-
+<!--
 ## Lesson 3 - Data Structures
 
 - [Quiz 3]({{ site.quiz_3 }})
