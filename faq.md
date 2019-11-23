@@ -23,6 +23,10 @@ The timings for the weekday batch will be from 4:00 PM to 7:00 PM IST. The sessi
 ### Do I need to get my own laptop?
 Yes. We expect you to get your own laptops with anaconda installed. Head over to the [prerequisites]({{ site.baseurl }}/prerequisites) section to learn more.
 
+### Where can I stay updated on the course content?
+We will be posting our content on this [telegram channel](https://t.me/joinchat/AAAAAFFBZHV4VNCpNV3jIA). This link will be removed after todays session. Make sure you have telegram installed on your phone/computer before clicking on the link.
+
+
 ### How to register for the course?
 For those who have not yet registered, use this [google form](redirects/registration_form.html). Stay tuned for the time table and details! 
 
