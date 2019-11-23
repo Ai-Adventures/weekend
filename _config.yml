@@ -27,7 +27,7 @@ navigation: # Navigation links
   - {name: 'Rankings', link: '/rankings'}
   # - {name: 'News', link: '/news'}
   # - {name: 'Pipeline', link: '/pipeline'}
-  - {name: 'Careers', link: '/careers'}
+  # - {name: 'Careers', link: '/careers'}
   - {name: 'FAQ', link: '/faq'}
   # - {name: 'Contact', link: '/contact'}
 
