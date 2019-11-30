@@ -22,7 +22,7 @@ published: True
 - [Quiz 2]({{ site.quiz_2 }})
 - [Assignment 2]({{ site.assignment_2 }})
 - Deadline:- {{ site.quiz_2_deadline }} ({{ site.quiz_2_time }})
-<!-- - [Homework]({{ site.homework }}) -->
+- [Homework]({{ site.homework }})
 
 ***
 
@@ -33,7 +33,7 @@ published: True
 - Deadline:- {{ site.quiz_3_deadline }} ({{ site.quiz_3_time }})
 
 ***
-<!--
+
 ## Lesson 4 - Functions
 
 - [Quiz 4]({{ site.quiz_4 }})
@@ -42,4 +42,3 @@ published: True
 
 ***  
 
--->
