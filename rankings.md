@@ -15,3 +15,10 @@ Check [this](https://docs.google.com/spreadsheets/d/1e9U0_RV7O9_OZD2uN9Z4qzk-yWa
 3. Rushikesh Jadhav
 4. Shrinivas Patil
 5. Atharva Jibhakate
+
+#### Batch 2 (23rd November)
+1. Shikhar Gupta
+2. Sajid Shaikh
+3. Shiraj Deshmukh
+4. Renuka Jagdale
+5. Nikhil Sawalkar

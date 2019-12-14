@@ -25,7 +25,7 @@ published: True
 - [Homework]({{ site.homework }})
 
 ***
-
+<!-- 
 ## Lesson 3 - Data Structures
 
 - [Quiz 3]({{ site.quiz_3 }})
@@ -40,5 +40,5 @@ published: True
 - [Assignment 4]({{ site.assignment_4 }})
 - Deadline:- {{ site.quiz_4_deadline }} ({{ site.quiz_4_time }})
 
-***  
+***   -->
 
