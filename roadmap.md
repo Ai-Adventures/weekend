@@ -12,5 +12,5 @@ featured-img: roadmap
 4. Functions - {{ site.quiz_4_start }} to {{ site.quiz_4_deadline }} ({{ site.quiz_4_time }}).
 
 #### All submission deadlines are by 5:00 PM, unless mentioned otherwise.
-
-[Add to Google calender](https://calendar.google.com/calendar/b/1?cid=bG8zNGFjcThidWJnOWRzMW0waGk0bWQ3azRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+<!-- 
+[Add to Google calender](https://calendar.google.com/calendar/b/1?cid=bG8zNGFjcThidWJnOWRzMW0waGk0bWQ3azRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) -->
