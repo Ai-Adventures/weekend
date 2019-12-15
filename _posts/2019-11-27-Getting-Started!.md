@@ -65,7 +65,12 @@ You can find more about him <a href='https://ankur-singh.github.io'>here</a>.<br
 
 <h3 style='text-align:center;'>Take pictures!</h3>
 <img src='{{ site.baseurl }}/assets/img/GettingStarted/selfie_spot.jpg' style='display: block; margin-left: auto; margin-right: auto; width: 70%; height: 70%;'>
-<p style='text-align:center;'>Make sure you take pictures in our designated selfie spot and post them on social media!</p><br>
+<p style='text-align:center;'>Make sure you take pictures with your certificates in our designated selfie spot and flaunt them on social media!</p><br>
+
+<h3 style='text-align:center;'>Spread the word</h3>
+<img src='{{ site.baseurl }}/assets/img/GettingStarted/pranjal_linkedin.png' style='display: block; margin-left: auto; margin-right: auto; width: 70%; height: 70%;'/>
+<p style='text-align:center;'>Like what you see? Make sure to spread the word about this course on social media. You can find posts made by people from past batches <a href='https://www.linkedin.com/posts/suyashbhiste_machinelearning-deeplearning-artificialintelligence-activity-6601333533636165632-XhT6'>here</a> and <a href='https://www.linkedin.com/posts/pranjal-enchalwar-86123a166_artificialintelligence-ml-deeplearning-activity-6601425275924377600-1UTZ'>here</a>.</p>
+
 
 
 <h3 style='text-align:center;'>Students become the teachers!</h3>

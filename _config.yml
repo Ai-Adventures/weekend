@@ -74,6 +74,9 @@ assignment_4_start: 21st December
 assignment_4_deadline: 22nd December
 assignment_4_time: 2:30 PM
 
+telegram_channel_link: https://t.me/joinchat/AAAAAEyBMLuwSUFhTBYI5Q
+
+
 hero_img: posts/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
