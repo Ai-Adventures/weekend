@@ -42,3 +42,9 @@ published: True
 
 ***   -->
 
+## Projects
+
+- [Missionaries and cannibals](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/Projects/3Cannibals3Missionary_Problem.ipynb)
+<!-- - [Frog leap](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/Projects/FrogLeapProblem.ipynb) -->
+
+***
