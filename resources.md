@@ -33,18 +33,18 @@ published: True
 - Deadline:- {{ site.quiz_3_deadline }} ({{ site.quiz_3_time }})
 
 ***
-<!-- 
+
 ## Lesson 4 - Functions
 
 - [Quiz 4]({{ site.quiz_4 }})
 - [Assignment 4]({{ site.assignment_4 }})
 - Deadline:- {{ site.quiz_4_deadline }} ({{ site.quiz_4_time }})
 
-***   -->
+***
 
 ## Projects
 
 - [Missionaries and cannibals](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/Projects/3Cannibals3Missionary_Problem.ipynb)
-<!-- - [Frog leap](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/Projects/FrogLeapProblem.ipynb) -->
+- [Frog leap](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/Projects/FrogLeapProblem.ipynb)
 
 ***
