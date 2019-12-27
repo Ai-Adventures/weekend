@@ -22,3 +22,10 @@ Check [this](https://docs.google.com/spreadsheets/d/1e9U0_RV7O9_OZD2uN9Z4qzk-yWa
 3. Shiraj Deshmukh
 4. Renuka Jagdale
 5. Nikhil Sawalkar
+
+#### Batch 3 (14th December)
+1. Aniket Dhanaji Lavand
+2. Balkrushn Hirani
+3. Saurabh Diwate
+4. Pratik Bandal
+5. Vikram Choudhary
