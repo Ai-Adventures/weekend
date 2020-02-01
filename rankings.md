@@ -7,7 +7,7 @@ featured-img: austris-augusts-52p1K0d0euM-unsplash
 
 ### The top 5 performing students of each batch will be featured here!
 
-Check [this](https://docs.google.com/spreadsheets/d/1_Gzgn34egdVBFw7l8zDb5tdsD8UpunJnCq6BhxQ-Hu0) link to see where you stand in the ongoing batch.
+Check [this](https://docs.google.com/spreadsheets/d/1_Gzgn34egdVBFw7l8zDb5tdsD8UpunJnCq6BhxQ-Hu0/edit?usp=sharing) link to see where you stand in the ongoing batch.
 
 #### Batch 1 (9th November)
 1. Amogh Dnyaneshwar Shitre
