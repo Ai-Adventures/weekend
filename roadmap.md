@@ -5,7 +5,7 @@ permalink: /roadmap/
 featured-img: roadmap
 ---
 
-## Deadlines
+## Curriculum
 1. Introduction & Expressions.
 2. Flow Control.
 3. Lists & Dictionaries.
