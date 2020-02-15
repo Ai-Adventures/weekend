@@ -13,7 +13,8 @@ published: True
 ## Lesson 1 - Introduction
 
 - [Quiz 1]({{ site.quiz_1 }})
-- Deadline:- {{ site.quiz_1_deadline }} ({{ site.quiz_1_time }})
+
+<!-- - Deadline:- {{ site.quiz_1_deadline }} ({{ site.quiz_1_time }}) -->
 
 *** 
 
@@ -21,7 +22,9 @@ published: True
 
 - [Quiz 2]({{ site.quiz_2 }})
 - [Assignment 2]({{ site.assignment_2 }})
-- Deadline:- {{ site.quiz_2_deadline }} ({{ site.quiz_2_time }})
+
+<!-- - Deadline:- {{ site.quiz_2_deadline }} ({{ site.quiz_2_time }}) -->
+
 - [Homework]({{ site.homework }})
 
 ***
@@ -30,7 +33,8 @@ published: True
 
 - [Quiz 3]({{ site.quiz_3 }})
 - [Assignment 3]({{ site.assignment_3 }})
-- Deadline:- {{ site.quiz_3_deadline }} ({{ site.quiz_3_time }})
+
+<!-- - Deadline:- {{ site.quiz_3_deadline }} ({{ site.quiz_3_time }}) -->
 
 ***
 
@@ -38,7 +42,8 @@ published: True
 
 - [Quiz 4]({{ site.quiz_4 }})
 - [Assignment 4]({{ site.assignment_4 }})
-- Deadline:- {{ site.quiz_4_deadline }} ({{ site.quiz_4_time }})
+
+<!-- - Deadline:- {{ site.quiz_4_deadline }} ({{ site.quiz_4_time }}) -->
 
 ***
 
