@@ -25,8 +25,6 @@ published: True
 
 <!-- - Deadline:- {{ site.quiz_2_deadline }} ({{ site.quiz_2_time }}) -->
 
-- [Homework]({{ site.homework }})
-
 ***
 
 ## Lesson 3 - Data Structures

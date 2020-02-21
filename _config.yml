@@ -3,7 +3,7 @@ title: Python for Data Science # your site title
 author: AI Adventures # You :P
 description: > # Meta description of Homepage
   Start building useful real world applications by learning to code
-  from this free 4-day course on Python :)
+  from this 4-day course on Python :)
 baseurl: "/weekend" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 future: true
@@ -34,7 +34,7 @@ navigation: # Navigation links
 tagline:
   Python is the way!
 
-batch_name: Weekend
+batch_name: Module-1: Python
 
 quiz_1: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-1.ipynb?flush_cache=true
 quiz_2: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-2.ipynb?flush_cache=true
@@ -44,38 +44,6 @@ assignment_3: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/m
 quiz_4: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Quiz-4.ipynb?flush_cache=true
 assignment_4: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Assignment-4.ipynb?flush_cache=true
 homework: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_ends/Homework.ipynb?flush_cache=true
-
-# Deadlines
-quiz_1_start: 14th December
-quiz_1_deadline: 14th December
-quiz_1_time: 4:30 PM
-
-quiz_2_start: 14th December
-quiz_2_deadline: 15th December
-quiz_2_time: 4:30 PM
-
-assignment_2_start: 14th December
-assignment_2_deadline: 15th December
-assignment_2_time: 4:30 PM
-
-quiz_3_start: 15th December
-quiz_3_deadline: 21st December
-quiz_3_time: 4:30 PM
-
-assignment_3_start: 15th December
-assignment_3_deadline: 21st December
-assignment_3_time: 4:30 PM
-
-quiz_4_start: 21st December
-quiz_4_deadline: 22nd December
-quiz_4_time: 2:30 PM
-
-assignment_4_start: 21st December
-assignment_4_deadline: 22nd December
-assignment_4_time: 2:30 PM
-
-telegram_channel_link: https://t.me/joinchat/AAAAAEyBMLuwSUFhTBYI5Q
-
 
 hero_img: posts/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
